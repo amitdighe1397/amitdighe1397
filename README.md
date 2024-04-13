@@ -29,7 +29,7 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 3 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/amit_dighe_1111/">amit_dighe_1111</a> that shares everything I learn about programming.
+Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 3 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/amit_dighe_1111/">amit_dighe_1111</a> that shares everything I learn about programming.
 
 </p>
 
@@ -40,8 +40,8 @@ welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
+        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="65" height="65" />
+      <br>C Language
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
