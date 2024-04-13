@@ -110,8 +110,7 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
-    </td>
-     <tr>
+       </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
