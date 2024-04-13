@@ -40,8 +40,8 @@ welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://icons8.com/icon/lTKW3iI3wIT0/java" alt="icon" width="65" height="65" />
-      <br>C#
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
