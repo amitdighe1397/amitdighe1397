@@ -1,5 +1,5 @@
-# Amit-Dighe
-<img src="https://github.com/amitdighe1397" alt="👋 Hi there! I'm Amit" title="👋 Hi there! I'm amit"/>
+
+<img src="https://github.com/amitdighe1397" alt="👋 Hi there! I'm Amit" title="👋 Hi there! I'm Amit Dighe"/>
 <div align="justify">
 
 <a href="https://www.instagram.com/amit_dighe_1111/">
