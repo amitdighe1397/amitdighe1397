@@ -1,12 +1,12 @@
 # Amit-Dighe
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif](https://github.com/amitdighe1397/Amit-Dighe.git)" alt="👋 Hi there! I'm Amit" title="👋 Hi there! I'm amit"/>
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif(https://github.com/amitdighe1397)(https://github.com/amitdighe1397/Amit-Dighe.git)" alt="👋 Hi there! I'm Amit" title="👋 Hi there! I'm amit"/>
 <div align="justify">
 
 <a href="https://www.instagram.com/amit_dighe_1111/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@amitdighe">
+<a href="http://www.youtube.com/@digheamit3923)">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,7 +29,7 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 3 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/amitdighe">amit_dighe_1111</a> that shares everything I learn about programming.
+welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 3 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/amit_dighe_1111/">amit_dighe_1111</a> that shares everything I learn about programming.
 
 </p>
 
@@ -40,7 +40,7 @@ welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://icons8.com/icon/lTKW3iI3wIT0/java" alt="icon" width="65" height="65" />
       <br>C#
     </td>
     <td align="center" width="96">
