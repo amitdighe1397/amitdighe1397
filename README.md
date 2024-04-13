@@ -111,18 +111,17 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
-     <tr>
-    <td align="center" width="96">
+     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center"  width="96">
+     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
  </tr>
    <tr>
-   </td>
+    </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
@@ -160,8 +159,6 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
       <br>Redis
     </td>
      </tr>
- <tr>
- </tr>
 </table>
 
 
