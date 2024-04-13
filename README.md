@@ -1,5 +1,5 @@
 # Amit-Dighe
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif(https://github.com/amitdighe1397)(https://github.com/amitdighe1397/Amit-Dighe.git)" alt="👋 Hi there! I'm Amit" title="👋 Hi there! I'm amit"/>
+<img src="https://github.com/amitdighe1397" alt="👋 Hi there! I'm Amit" title="👋 Hi there! I'm amit"/>
 <div align="justify">
 
 <a href="https://www.instagram.com/amit_dighe_1111/">
