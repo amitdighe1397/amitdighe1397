@@ -71,14 +71,16 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
     </td>
     </td>
           <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/json-icon.svg" width="65" height="65" alt="Json" />
-      <br>Json
-    </td>
-          <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Docker
     </td>
     </tr>
+
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/json-icon.svg" width="65" height="65" alt="json" />
+      <br>Json
+    </td>
+ 
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
