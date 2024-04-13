@@ -73,6 +73,11 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Docker
     </td>
+     </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/json-icon.svg" width="65" height="65" alt="Json" />
+      <br>Json
+    </td>
    
   </tr>
   <tr>
@@ -106,8 +111,8 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
       <br>React Js
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="node-js" />
+      <br>Node-js
     </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
