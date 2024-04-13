@@ -120,8 +120,8 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
   </tr>
    <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Mongodb" />
+      <br>MongoDb
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
