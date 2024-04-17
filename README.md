@@ -181,7 +181,7 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
   <br/>
 </details>
 
-#### 26 . [Generate Snake Game From Github Contribution Grid](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+#### [Generate Snake Game From Github Contribution Grid](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
 Generates a snake game from a github user contributions graph
 
