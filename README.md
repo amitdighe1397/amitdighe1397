@@ -175,7 +175,7 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
 <details>
   <summary>Wakatime ⏳</summary>
   <br/>
-  <img src="https://wakatime.com/share/@rzashakeri/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
+  <img src="https://user-images.githubusercontent.com/17814535/88974985-14ced400-d27f-11ea-83a8-065d86dd8d26.png">
   <br/>
   <br/>
   <br/>
