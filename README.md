@@ -173,7 +173,7 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
 
 
 <details>
-  <summary>Wakatime ⏳</summary>
+  <summary>ASCII ⏳</summary>
   <br/>
   <img src="https://user-images.githubusercontent.com/17814535/88974985-14ced400-d27f-11ea-83a8-065d86dd8d26.png">
   <br/>
