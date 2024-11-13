@@ -139,7 +139,7 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
       <br>Aws
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="dart" />
       <br>Dart
     </td>
     <td align="center" width="96">
