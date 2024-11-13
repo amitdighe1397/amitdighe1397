@@ -144,11 +144,11 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="kubernetes" />
-      <br>kubernetes
+      <br>Kubernetes
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
+        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="kafka" />
+      <br>Kafka
     </td>
     <td align="center" width="96">
         <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
