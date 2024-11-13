@@ -135,11 +135,11 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
       <br>Docker
     </td>
      <td align="center" width="96">
-        <img src="https://camo.githubusercontent.com/9e876f0b8e5ba00559326b3a2b9e7f043aa373aa8e89e6433e5730f1b09caf40/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616d617a6f6e77656273657276696365732f616d617a6f6e77656273657276696365732d706c61696e2d776f72646d61726b2e737667" width="48" height="48" alt="Linux" />
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="Aws" />
       <br>Aws
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
       <br>Dart
     </td>
     <td align="center" width="96">
