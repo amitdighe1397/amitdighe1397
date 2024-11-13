@@ -135,16 +135,16 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
       <br>Docker
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="Aws" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="Aws" />
       <br>Aws
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
+        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="jenkins" />
+      <br>Jenkins
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="kubernetes" />
+      <br>kubernetes
     </td>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
