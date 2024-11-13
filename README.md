@@ -151,8 +151,8 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
       <br>Kafka
     </td>
     <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
+        <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="prometheus" />
+      <br>Prometheus
     </td>
     <td align="center" width="96">
         <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
