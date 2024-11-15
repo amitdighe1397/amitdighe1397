@@ -127,6 +127,10 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
+  <td align="center" width="96">
+        <img src="https://camo.githubusercontent.com/90b107006a1756453114e6782a2592c05b94452232f63a5ee3742f9417ade939/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d737072696e67" />
+      <br>Spring
+    </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
@@ -154,10 +158,6 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="prometheus" />
       <br>Prometheus
-    </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
     </td>
      </tr>
 </table>
