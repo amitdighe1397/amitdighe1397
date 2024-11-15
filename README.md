@@ -176,7 +176,7 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); width: 95%; margin: auto;">
     <div>
       <p align="center">
-        <img align="left" src="https://art.pixilart.com/486745d4bb1ef18.gif" alt="aman" width="46%" height="200px"/>
+        <img align="left" src="[https://art.pixilart.com/486745d4bb1ef18.gif](https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=gotham&hide_border=false)" alt="aman" width="46%" height="200px"/>
       </p>
     </div>
     <div>
