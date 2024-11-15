@@ -176,16 +176,13 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
   <div>
 <p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanastel&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="amit" height="200px"  width="48%"/></p></div>
 </br>
- 
-
  <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Thank%20You%20for%20giving%20your%20valuable%20time%20😄;%20To%20view%20my%20GitHub%20Profile%20👩‍🚀%20🚀&font=Arial&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000">
   </a>
 </p>
-
-<p align="center">
   ### ✍️ Random Dev Quote
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
