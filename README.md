@@ -187,7 +187,7 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
   </div>
 
   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=amanastel&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt="aman" width="100%" height="200px"/>
     </a>
   </p>
@@ -198,13 +198,13 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
     </a>
   </p>
 
-  <p align="center">
-    ### ✍️ Random Dev Quote
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-  </p>
-
   📍 For example: &nbsp;
 
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
   <br/>
+</p>
+
+<p align="center">
+  ### ✍️ Random Dev Quote
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
