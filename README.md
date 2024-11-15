@@ -173,7 +173,6 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
 </details>
  </h2>
  <p align="center">
-<a href="https://github.com/amanastel">
  </br>   
   <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=gotham&hide_border=false"/>
   
@@ -204,11 +203,10 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
 </p> 
  <!----------------------------------------------------------------------------------------------------------------------------------------->
 
-  <p align="center">  
- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  </p>
-
+ <p align="center">
+  ### ✍️ Random Dev Quote
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
 📍 For example : &nbsp;
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
