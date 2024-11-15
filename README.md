@@ -204,7 +204,7 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
   <br/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   ### ✍️ Random Dev Quote
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</p>
+</p> -->
