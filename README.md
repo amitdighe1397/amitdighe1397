@@ -176,7 +176,7 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); width: 95%; margin: auto;">
     <div>
       <p align="center">
-        <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanastel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="aman" width="46%" height="200px"/>
+        <img align="left" src="https://camo.githubusercontent.com/16daa1bb5cb7d5d77344e925097de31343800d1f89a87fe2885e3a8b3e3573ff/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170693f757365726e616d653d616d616e617374656c267468656d653d676f7468616d26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d74727565" alt="aman" width="46%" height="200px"/>
       </p>
     </div>
     <div>
