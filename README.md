@@ -99,13 +99,13 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
     </td>
     </td>
           <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
+        <img src="https://camo.githubusercontent.com/8d766fee437dde0e0de97cb40f9f6c4ad49334706eb8ab44c313562d44090b37/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68696265726e617465" />
+      <br>Hibernate
     </td>
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="Php" />
-      <br>Php
+        <img src="https://camo.githubusercontent.com/8c779088a37e29fdc8fca5576357aa67c86f30041734226d17f70e150eececdf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" />
+      <br>Mongodb
     </td>
      </td>
        <td align="center" width="96">
