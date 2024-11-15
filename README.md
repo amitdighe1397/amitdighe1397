@@ -1,5 +1,6 @@
 
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQHnzrz79hdUPQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729774353756?e=1735171200&v=beta&t=mviky1g70KCdkW_h3_C0orZ59o9lSyGTlNyZxTVjkgw" alt="👋 Hi there! I'm Amit" title="👋 Hi there! I'm Amit Dighe"/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&amp;color=ff9999&amp;size=20&amp;lines=Hey!+It's+Amit+Dighe!;Java+Developer👨🏻‍💻;" style="width: 100%;">
 
 <div align="justify">
 <a href="https://www.instagram.com/amit_dighe_1111/">
