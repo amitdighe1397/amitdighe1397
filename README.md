@@ -171,31 +171,22 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
   <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
-<br/>
-<h2 align="center">
-<img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
- My Github Stats 
-<img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20" align="center">
-</h2>
- </h2>
- <p align="center">
-<a href="https://github.com/amanastel">
- </br>   
+<br> 
   <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=gotham&hide_border=false"/>
   
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
-<p align="center"><img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanastel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="aman" width="46%" height="200px"/></p></div>
+<p align="center"><img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanastel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="amit" width="46%" height="200px"/></p></div>
 <div>
 <!--top lang-->
-<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanastel&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="aman" height="200px"  width="48%"/></p></div>
+<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanastel&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="amit" height="200px"  width="48%"/></p></div>
 
 <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-readme-activity-graph.vercel.app/graph?username=amanastel&theme=gotham&hide_border=true" alt="aman" align="center" /></a>
 </p>
 </br>
 
-#### [Generate Snake Game From Github Contribution Grid](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+### [Generate Snake Game From Github Contribution Grid](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
 Generates a snake game from a github user contributions graph
 
