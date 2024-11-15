@@ -174,9 +174,6 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
 <br> 
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
-<p align="center"><img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanastel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="amit" width="46%" height="200px"/></p></div>
-<div>
-<!--top lang-->
 <p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanastel&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="amit" height="200px"  width="48%"/></p></div>
 </br>
 
@@ -186,9 +183,13 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
 
+ <br/>
+
+ 
+
  <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=aaaaaThank You for giving your valuable time 😄; To view my GitHub Profile 👩‍🚀 🚀&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=aaaaaThank%20You%20for%20giving%20your%20valuable%20time%20😄;%20To%20view%20my%20GitHub%20Profile%20👩‍🚀%20🚀&font=Arial&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000">
 </p> 
  <!----------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -197,3 +198,5 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+
+ 
