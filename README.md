@@ -192,17 +192,16 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
     </a>
   </p>
 
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Thank%20You%20for%20giving%20your%20valuable%20time%20😄;%20To%20view%20my%20GitHub%20Profile%20👩‍🚀%20🚀&font=Arial&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"/>
-    </a>
-  </p>
-
   📍 For example: &nbsp;
 
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
   <br/>
 </p>
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Thank%20You%20for%20giving%20your%20valuable%20time%20😄;%20To%20view%20my%20GitHub%20Profile%20👩‍🚀%20🚀&font=Arial&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"/>
+    </a>
+  </p>
 
 <!-- <p align="center">
   ### ✍️ Random Dev Quote
