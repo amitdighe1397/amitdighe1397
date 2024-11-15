@@ -189,5 +189,12 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
+📍 For example : &nbsp;
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
+
+ <br/>
+
+
 
  
