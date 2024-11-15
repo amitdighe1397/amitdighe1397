@@ -169,48 +169,42 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
   <summary>Profile Views 👁️</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
 </details>
- </h2>
- <p align="center">
- </br>    
-<div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
-  <div>
-<p align="center"><img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanastel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="aman" width="46%" height="200px"/></p></div>
-<div>
-<!--top lang-->
-<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanastel&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="aman" height="200px"  width="48%"/></p></div>
 
- <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=amanastel&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt="aman"
-   width ="100%"    align="center"
-         height="200px" 
-/></a> </p> 
-<!--  <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanastel&theme=monokai"  align="center"
-        width="100%" heigth="250px"
-      /></p> -->
-
-
+<p align="center">
   <br/>
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); width: 95%; margin: auto;">
+    <div>
+      <p align="center">
+        <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanastel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="aman" width="46%" height="200px"/>
+      </p>
+    </div>
+    <div>
+      <p align="center">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanastel&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="aman" height="200px" width="48%"/>
+      </p>
+    </div>
+  </div>
 
- 
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=amanastel&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt="aman" width="100%" height="200px"/>
+    </a>
+  </p>
 
- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-   <img src="https://readme-typing-svg.demolab.com/?lines=Thank%20You%20for%20giving%20your%20valuable%20time%20😄;%20To%20view%20my%20GitHub%20Profile%20👩‍🚀%20🚀&font=Arial&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
-</p> 
- <!----------------------------------------------------------------------------------------------------------------------------------------->
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Thank%20You%20for%20giving%20your%20valuable%20time%20😄;%20To%20view%20my%20GitHub%20Profile%20👩‍🚀%20🚀&font=Arial&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"/>
+    </a>
+  </p>
 
- <p align="center">
-  ### ✍️ Random Dev Quote
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <p align="center">
+    ### ✍️ Random Dev Quote
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  </p>
+
+  📍 For example: &nbsp;
+
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
+  <br/>
 </p>
-📍 For example : &nbsp;
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
-
- <br/>
-
-
-
- 
