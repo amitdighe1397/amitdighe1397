@@ -173,9 +173,7 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
 </details>
  </h2>
  <p align="center">
- </br>   
-  <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=gotham&hide_border=false"/>
-  
+ </br>    
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
 <p align="center"><img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanastel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="aman" width="46%" height="200px"/></p></div>
@@ -183,10 +181,10 @@ Welcome to my GitHub Page. I am Amit Dighe and now Computer engineering student,
 <!--top lang-->
 <p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanastel&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="aman" height="200px"  width="48%"/></p></div>
 
-<!--  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=amanastel&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt="aman"
+ <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=amanastel&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt="aman"
    width ="100%"    align="center"
          height="200px" 
-/></a> </p> -->
+/></a> </p> 
 <!--  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanastel&theme=monokai"  align="center"
         width="100%" heigth="250px"
