@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGol5Vzp2b_qA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737810589206?e=1743638400&v=beta&t=ZKHeNcDGUFwyDHTgWF_RyI1Bq4uKG18jz0eJ05YscLs" alt="👋 Hi there! I'm Amit" title="👋 Hi there! I'm Amit Dighe"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGThs1eY9O0rg/profile-displaybackgroundimage-shrink_350_1400/B4DZVrJ6e0HIAk-/0/1741259516941?e=1752105600&v=beta&t=a_y932HSUsStYdOIw5iUu7SFAH_eX_RlGDem6ua53_c" alt="👋 Hi there! I'm Amit" title="👋 Hi there! I'm Amit Dighe"/>
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&amp;color=ff9999&amp;size=20&amp;lines=Hey!+It's+Amit+Dighe!;Java+Developer👨🏻‍💻;" style="width: 100%;">
 
 <div align="justify">
